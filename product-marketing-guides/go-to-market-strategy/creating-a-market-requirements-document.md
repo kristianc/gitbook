@@ -1,5 +1,7 @@
 # Creating a Market Requirements Document
 
+A market requirements document expresses the customer's wants and needs for the product or service. 
+
 A Market Requirements Document \(MRD\) helps establish:
 
 * A focused definition of the target market
