@@ -2,7 +2,9 @@
 
 ## What is a Market Requirements Document?
 
-A market requirements document \(MRD\) expresses the customer's wants and needs for the product or service. A MRD helps establish:
+A market requirements document \(MRD\) expresses the customer's wants and needs for the product or service. It is designed to capture a deep description of the market needs that customers have.
+
+A MRD helps establish:
 
 * A focused definition of the target market
 * Buyer and user profiles
