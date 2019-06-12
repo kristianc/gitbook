@@ -1,4 +1,4 @@
-# Creating a Market Requirements Document
+# Market Requirements Document
 
 ## What is a Market Requirements Document?
 

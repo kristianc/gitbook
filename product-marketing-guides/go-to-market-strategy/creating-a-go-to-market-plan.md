@@ -1,4 +1,4 @@
-# Creating a Go To Market Plan
+# Go To Market Plan
 
 Once you’ve mapped out your product’s essentials, it’s time to create the go-to-market plan that guides how it will be promoted and sold. This launch plan covers everything from developing the pricing and messaging for the product to creating training materials for your sales staff. It keeps everyone on the same page and makes sure that your team is ready when the product is ready. The plan also spells out timetables, release schedules, resources, and tasks.
 

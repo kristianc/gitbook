@@ -10,6 +10,8 @@ I set this site up because of what I understood to be a lack of concise Product 
 
 This is primarily intended for a B2B Marketing audience, though many of the principles can also apply to consumer. It can be applied to both enterprise sales and low-touch SaaS solutions.
 
+It is intended to be a useful resource for Product Marketers \(experienced and aspiring\), and Product Managers seeking to find out more about the Product Marketing function.
+
 This wiki shares principles and frameworks to help you do better product marketing.
 
 ## Using the wiki well

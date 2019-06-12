@@ -1,4 +1,4 @@
-# Creating Defensible Product Positioning
+# Product Positioning
 
 The basic idea of positioning is that your product occupies a place in the mind of the people in your target market. You are defined by their perceptions of you.
 
