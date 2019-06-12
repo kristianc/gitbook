@@ -1,6 +1,8 @@
 # Do You Need Product Marketing Help?
 
-If all your products are selling quickly and your only feedback is kind notes from happy customers, you likely have a successful product marketing strategy. However, these covert signs might indicate that you need help:
+You may be lucky and not need support with Product Marketing. If all your products are selling quickly and your only feedback is kind notes from happy customers, you likely have a successful product marketing strategy. 
+
+However, these covert signs might indicate that you need help:
 
 * Decisions about audience, features, and pricing are made by people who don’t have the data or understand the market.
 * Products are developed and put into the market without a launch plan or a budget.
