@@ -1,5 +1,7 @@
 # Do You Need Product Marketing Help?
 
+It feels like everyone is hiring Product Marketing Managers at the moment, but does that mean that you need one? Maybe you do, and maybe you don't.
+
 You may be lucky and not need support with Product Marketing. If all your products are selling quickly and your only feedback is kind notes from happy customers, you likely have a successful product marketing strategy.  However, these covert signs might indicate that you need help:
 
 * Decisions about audience, features, and pricing are made by people who don’t have the data or understand the market \([or by the HiPPO](http://www.enricdurany.com/agile-startup-entrepreneur/hippos-highest-paid-person-opinion-data-driven-decision-making/)\)
