@@ -8,7 +8,7 @@ This is my personal wiki where I share information about Product Marketing and P
 
 I set this site up because of what I understood to be a lack of concise Product Marketing information online.
 
-This is primarily intended for a B2B Marketing audience, though many of the principles can also apply to consumer. It can be applied to both enterprise sales and low-touch SaaS solutions.
+This is primarily intended for a B2B Marketing audience, though many of the principles can also apply to consumer.
 
 This wiki shares principles and frameworks to help you do better product marketing.
 
