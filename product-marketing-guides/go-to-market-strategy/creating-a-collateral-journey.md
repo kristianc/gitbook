@@ -1,4 +1,4 @@
-# Collateral Journey
+# Creating a Collateral Journey
 
 Everyone has a different approach to deciding which collateral needs to be created as part of the Buyer Journey.
 
