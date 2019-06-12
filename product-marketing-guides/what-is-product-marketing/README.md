@@ -1,6 +1,6 @@
 # What is Product Marketing?
 
-Product Marketing evolved out of a need to relieve product managers of the activities that are keeping them from building new products. Product managers do things that product managers don't have time to do: competitive analysis, sales enablement, writing blog posts, working with the marketing communications team, and acting as a resource for the sales team to help with sales calls.
+If you're at this page, you followed a link because you were curious about Product Marketing, and what it is. Welcome! Product Marketing is a relatively new discipline that evolved out of a need to relieve product managers of the activities that are keeping them from building new products. Product managers do things that product managers don't have time to do: competitive analysis, sales enablement, writing blog posts, working with the marketing communications team, and acting as a resource for the sales team to help with sales calls.
 
 Today, the role of Product Marketing has evolved to be more strategic, and more focused on market insights. Forward thinking organizations have given Product Marketing important responsibilities in market sizing, market segmentation, mastering the competitive landscape, empowering the sales team, and in some cases pricing. Many of these responsibilities were once the exclusive domain of Product Management.
 
